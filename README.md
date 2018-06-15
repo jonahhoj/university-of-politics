@@ -20,16 +20,16 @@ know more than I about coding, so I'm totally open to a redesign of the website 
 ### A Little About University of Politics
 I'm not sure how much you're acquainted with the state of things at U of P, not sure how much Devon's filled you in, but just for
 the sake of clarity I'll make a list of our people.
-*Devon is our CEO and co-founder.
-*Our Editor-in-Chief is Bradley Devlin, President of the UC Berkeley College Republicans.
-*Josh Zaucha is our CFO and other co-founder.
-*I'm our CTO, as well as a contributor.
-*Some of our prominent contributors
-  *Avery Klatsky
-  *Andrew Olivo
-  *Declan Leary
-  *Nick Nordstrom
-  *a bunch of others that I don't remember    
+* Devon is our CEO and co-founder.
+* Our Editor-in-Chief is Bradley Devlin, President of the UC Berkeley College Republicans.
+* Josh Zaucha is our CFO and other co-founder.
+* I'm our CTO, as well as a contributor.
+* Some of our prominent contributors
+  * Avery Klatsky
+  * Andrew Olivo
+  * Declan Leary
+  * Nick Nordstrom
+  * a bunch of others that I don't remember    
 
 I'm glad to be working with you on this! We've been a little stalled on writing for the last couple months as finals got nearer, 
 but with the summer session here we'll get back on track.
