@@ -1,6 +1,6 @@
-# university-of-politics
-##Readme File
-###About the Current State of Things
+# university-of-politics    
+##Readme File    
+###About the Current State of Things    
 Wordpress organizes our code in interesting ways, using our main theme (vdPeranto) and various plugins (for instance, Ninja Forms,
 which is used to create contact forms or polls). Of our 34 plugins, many are built into the way that the website functions, such as
 the menu plugin. When we recreate the site from scratch as I suspect we may be doing, we could attempt to simply write a theme for
